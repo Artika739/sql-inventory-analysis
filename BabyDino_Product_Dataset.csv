@@ -1,0 +1,31 @@
+Product_ID,Product_ID,Category,Price,Size,Color,Stock_Quantity
+P001,Cotton Round Neck T-Shirt,T-Shirt,799,S,Black,45
+P002,Cotton Round Neck T-Shirt,T-Shirt,799,M,Black,40
+P003,Premium Polo T-Shirt,T-Shirt,999,L,Navy Blue,32
+P004,Oversized Graphic Tee,T-Shirt,1099,XL,White,28
+P005,Slim Fit Shirt,Shirt,1299,M,Sky Blue,35
+P006,Casual Linen Shirt,Shirt,1499,L,Beige,22
+P007,Formal White Shirt,Shirt,1399,M,White,30
+P008,Denim Jacket,Jacket,2499,L,Blue,18
+P009,Hooded Sweatshirt,Hoodie,1899,M,Grey,25
+P010,Zip-Up Hoodie,Hoodie,1999,L,Black,20
+P011,Men's Joggers,Bottom Wear,1199,M,Olive,38
+P012,Cargo Pants,Bottom Wear,1699,L,Khaki,24
+P013,Slim Fit Jeans,Bottom Wear,1799,32,Dark Blue,26
+P014,Regular Fit Jeans,Bottom Wear,1899,34,Black,17
+P015,Athletic Shorts,Shorts,899,M,Black,44
+P016,Cotton Shorts,Shorts,799,L,Grey,41
+P017,Running Shoes,Footwear,2999,8,White,15
+P018,Sneakers,Footwear,3499,9,Black,12
+P019,Leather Belt,Accessories,699,Free,Brown,60
+P020,Canvas Belt,Accessories,499,Free,Black,55
+P021,Baseball Cap,Accessories,599,Free,Navy Blue,48
+P022,Sports Cap,Accessories,699,Free,Grey,39
+P023,Cotton Socks,Accessories,299,Free,White,80
+P024,Leather Wallet,Accessories,999,Free,Brown,27
+P025,Travel Backpack,Bags,2199,Free,Black,16
+P026,Laptop Backpack,Bags,2799,Free,Grey,13
+P027,Duffel Bag,Bags,2499,Free,Navy Blue,11
+P028,Gym Bag,Bags,1899,Free,Black,18
+P029,Winter Beanie,Accessories,499,Free,Maroon,34
+P030,Cotton Scarf,Accessories,599,Free,Grey,29
