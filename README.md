@@ -1,4 +1,4 @@
-# BabyDino Inventory SQL Project
+# Inventory SQL Project
 
 ## Project Overview
 This project demonstrates SQL-based database management and inventory data analysis using MySQL.
